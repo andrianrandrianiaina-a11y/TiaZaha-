@@ -1,0 +1,6 @@
+{
+  "name": "MAHAKASA",
+  "description": "Application de prédictions et analyses pour football virtuel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

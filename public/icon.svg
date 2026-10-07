@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="earGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ef4444" />
+      <stop offset="100%" stop-color="#991b1b" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="#09090b" rx="128"/>
+  <g fill="none" stroke="url(#earGrad)" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Outer helix and structure of the Ear -->
+    <path d="M190 220 C 170 110, 350 110, 340 260 C 335 330, 300 360, 300 400 C 300 440, 250 440, 250 400 C 250 370, 260 360, 270 330 C 280 300, 290 260, 260 240 C 240 225, 210 240, 210 280" />
+    <!-- Inner helix detailing -->
+    <path d="M245 170 C 270 145, 310 170, 290 205 C 275 230, 265 240, 265 260" stroke-width="20" opacity="0.85" />
+  </g>
+</svg>
